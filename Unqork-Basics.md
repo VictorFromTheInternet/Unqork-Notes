@@ -111,8 +111,8 @@ The module editor is what is used to change the display, function, and purpose o
 The module editor contains the **Components library** (seen in components overview), which will contain 
 all of the smaller building blocks which will affect how the module functions.
 
-<"img src="screenshot goes here"  width="300" height="300"> <br>
-https://lc.sj-cdn.net/content/wp/sufucx3nslmm/djj8e35b1vr8/Content/Resources/Images/AppBuild_Primary_Fields_Intro.jpg
+<"img src="https://docs.unqork.io/Content/Resources/Images/AppBuild_Primary_Fields_Intro.jpg"  width="300" height="300"> <br>
+![](https://docs.unqork.io/Content/Resources/Images/AppBuild_Primary_Fields_Intro.jpg)
 
 <br>
 
@@ -133,28 +133,55 @@ that affect how the component functions.
 * Date Input
 * Single Checkbox
 * [Ex images](https://academy.unqork.com/path/associate-configurator/introduction-to-primary-fields/589015)
+* ***Note turn these to links in the docs***
 
 #### ***Secondary Fields:***
-* Protected Field component
-* Button component
-* Email component
-* Phone Number component
-* Intl Phone Number component
-* Address component
-* Hidden component
-* Signature component
+* Protected Field 
+* Button 
+* Email 
+* Phone Number 
+* Intl Phone Number 
+* Address 
+* Hidden 
+* Signature 
 * [Ex images](https://academy.unqork.com/path/associate-configurator/introduction-to-secondary-fields/590614)
 
 #### Display and Layout
+* Grid Systems 
+* HTML Element 
+* Content 
+* Data Grid 
+* Matrix 
+* Columns 
+* Panel
+* Table
+* Advanced Data Grid
+* Navigation
+* View Grid
+* Field Group
+* Rich Text Editor
+* Repeater
 
 
 #### Data and Event Processing
+* File
+* Data Mapper
+* Decisions
+* Initializer
+* Plug-in
+* Calculator
+* Data Table
+* Data Workflow
+* Checkpoint
+* Timer
+* Plaid
+* File Storage
+* Browser Storage
 
 
 #### Charts and Graphs
-
-
-
+* KPI
+* Chart
 
 
 <br> 
@@ -171,7 +198,7 @@ that affect how the component functions.
 <br>
 
 
-## Basic Structuring
+## Components - Basic Structuring/Usage
 -------------------------------------------------------------------------------------------------------------------
 ### Basic Data Types and Structures:
 In Unqork data is categorized into 3 basic types ...
@@ -186,15 +213,25 @@ Numbers can be further specified based on expected decimal value
 
 <br>
 
+### Primary Fields
+
+<br>
+
+### Secondary Fields
+
+<br>
+
 ### Layout and Display
+#### Intro to the Grid System
 
 <br>
 
 ### Data and Events Processing
+#### Triggering w/ buttons
 
 <br>
 
-### Triggering with buttons
+### Charts and Graphs
 
 <br>
 
@@ -208,6 +245,8 @@ Numbers can be further specified based on expected decimal value
     * [Layout and display](https://academy.unqork.com/path/associate-configurator/introduction-to-display-and-layout)
     * [Intro to data and event processing](https://academy.unqork.com/path/associate-configurator/introduction-to-data-and-events-processing)
     * [Triggering w/ buttons](https://academy.unqork.com/path/associate-configurator/triggering-with-buttons)
+* [Unqork Docs - Components Library](https://docs.unqork.io/Content/A02-ModEditor-Primary/A02000-Primary_Fields_Introduction.htm)
+    * *Contains the same content* 
 
 
 <br>
