@@ -1,5 +1,5 @@
 
-<p>&nbsp;</p> 
+<br>
 
 # Unqork 101 & 102
 ---
@@ -31,10 +31,11 @@ Tool        | Formula/URL |
  Delete/Get Workflow submission Endpoint |  /fbu/uapi/workflows/{workflowId}/submissions/{submissionId}
  App ID for Weather API             |   4e25461876c6722efa0f107814b65203
  
- 
-<br>
-<br>
 
+<br>
+<br>
+<br>
+<br>
 
 
 ## Unqork Envirnonment Basics
@@ -51,13 +52,15 @@ Repository      | Workspace
 Folders         | Application
 Files           | App elements: *Modules, Workflows, Data Collections*
 
+Navigation Demo: [Unqork Bootcamp - Intro to the Platform](https://academy.unqork.com/path/bootcamp/unqork-101-and-102/653995)
+
 <br>
 
 
 ### Workspaces:
 When you log in to the ***Unqork Designer platform***, Unqorks IDE, the default landing page is your companies environment in workspaces. Workspaces is the entry point into the Unqork Designer platform.
 
-Like a repository, **Workspaces** house single or multiple projects based on the needs and preferences of your organization. More about Workspaces: https://academy.unqork.com/introducing-the-unqork-platform?next=%2Fintroducing-the-unqork-platform%2F657299.
+Like a repository, **Workspaces** house single or multiple projects based on the needs and preferences of your organization. 
 
 <br>
 
@@ -73,10 +76,17 @@ Modules         |   Modules are the equivilant of code files. Modules contain th
 Workflows       |  Workflows are like the **higher level** pseudo-code of the application. They configure and link the logic between modules similar to Model–view–controller (MVC) is a software architecture.
 Data Collections |  Data collections are static data referenced by your applications.
 
+<br>
+
+### Resources Used:
+* [Unqork Academy - Introducing the Platform](https://academy.unqork.com/introducing-the-unqork-platform?next=%2Fintroducing-the-unqork-platform%2F657299.)
+* [Unqork Dev Guide - Setup & Nav](https://academy.unqork.com/developer-guide/1149553/scorm/6cesnexaguka)
+
 
 <br>
 <br>
-
+<br>
+<br>
 
 
 ## Overview of Modules and Components
@@ -126,9 +136,12 @@ Numbers can be further specified based on expected decimal value
 * [Hello World](https://academy.unqork.com/developer-guide/1149556/scorm/l45tk7tmcr6x)
 * [Unqork User Manual - 20 min App](https://docs.unqork.io/Content/A00-Unqork_Platform/A00003-Unqork_In_20_Minutes.htm)
 
-<br>
-<br> 
 
+
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -137,9 +150,12 @@ Numbers can be further specified based on expected decimal value
 ### Form Examples: 
 * [Unqork bootcamp 101 - quiz project](https://linkhere.com)
 
-<br>
-<br>
 
+
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -148,8 +164,12 @@ Numbers can be further specified based on expected decimal value
 ### Form Examples: 
 * [Unqork bootcamp 101 - quiz project](https://linkhere.com)
 
+
+
 <br>
-<br> 
+<br>
+<br>
+<br>
 
 
 
@@ -159,8 +179,12 @@ Numbers can be further specified based on expected decimal value
 ### Form Examples: 
 * [Unqork bootcamp 101 - quiz project](https://linkhere.com)
 
+
+
 <br>
-<br> 
+<br>
+<br>
+<br>
 
 
 
@@ -169,5 +193,10 @@ Numbers can be further specified based on expected decimal value
 ### Form Examples: 
 * [Unqork bootcamp 101 - quiz project](https://linkhere.com)
 
+
+
 <br>
 <br>
+<br>
+<br>
+
