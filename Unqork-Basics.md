@@ -145,6 +145,16 @@ that affect how the component functions.
 * Signature component
 * [Ex images](https://academy.unqork.com/path/associate-configurator/introduction-to-secondary-fields/590614)
 
+#### Display and Layout
+
+
+#### Data and Event Processing
+
+
+#### Charts and Graphs
+
+
+
 
 
 <br> 
@@ -154,7 +164,7 @@ that affect how the component functions.
 * [Associate Configuator](https://academy.unqork.com/path/associate-configurator)
     * [Intro to Primary Fields](https://academy.unqork.com/path/associate-configurator/introduction-to-primary-fields)
     * [Intro to Secondary Fields](https://academy.unqork.com/path/associate-configurator/introduction-to-secondary-fields)
-
+* [Unqork Docs - Intro to Modules](https://docs.unqork.io/Content/A01-ModEditor-General/A01007-Module_Introduction.htm?Highlight=module%20editor)
 
 <br>
 <br>
@@ -208,7 +218,7 @@ Numbers can be further specified based on expected decimal value
 
 ## Intro to APIs
 -------------------------------------------------------------------------------------------------------------------
-
+stuff here
 
 <br>
 
@@ -223,4 +233,32 @@ Numbers can be further specified based on expected decimal value
 
 
 
+## Form Basics
+--------------------------------------------------------------------------------------------------------------------
+Data Validation
+
+<br>
+<br>
+<br>
+<br>
+
+
+## Server Side execution
+--------------------------------------------------------------------------------------------------------------------
+Data Security
+
+<br>
+<br>
+<br>
+<br>
+
+
+## Writing Transforms (Converting data/file types)
+--------------------------------------------------------------------------------------------------------------------
+https://docs.unqork.io/Content/A01-ModEditor-General/A01018B-Writing_Transforms_Using_JSON_and_Nunjucks.htm
+
+<br>
+<br>
+<br>
+<br>
 
