@@ -36,9 +36,11 @@ Tool        | Formula/URL |
  Module Submission Path             |   =concatenate('/#/display/',moduleId,'/',submissionId,'/',moduleId    
  MomentJS Formula                   |   =moment(moment(),'diff',moment(a),'years')
  HTML Anchor Tag                    |   \<a href="">\</a>
+ Regular Expression Pattern <br> (Client Side Form Valid) | ^[a-zA-Z]*$
  SSN Formula                        |   ssn=CONCATENATE("***-**-",GET(ssn,5),GET(ssn,6),GET(ssn,7),GET(ssn,8))
  Delete/Get Workflow submission Endpoint |  /fbu/uapi/workflows/{workflowId}/submissions/{submissionId}
  App ID for Weather API             |   4e25461876c6722efa0f107814b65203
+
  
 
 <br>
@@ -328,6 +330,8 @@ stuff here
 ## Form Basics
 --------------------------------------------------------------------------------------------------------------------
 Data Validation
+Text Fields
+https://docs.unqork.io/Content/A01-ModEditor-General/A01201A-Regex_In_Unqork.htm
 
 <br>
 <br>
