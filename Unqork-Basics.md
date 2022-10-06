@@ -4,6 +4,7 @@
 # Unqork 101 & 102
 ---
 #### Official Resources:
+* [Training Environment](https://training.unqork.io)
 * [Unqork Academy](https://academy.unqork.com/)
 * [Unqork Docs](https://developers.unqork.io/)
 * [Unqork User Manual](https://docs.unqork.io/Content/LandingPages/Landing_UserManual.htm)
@@ -16,13 +17,16 @@
 
 <p>&nbsp;</p> 
 
+
+
+
 #### Useful stuff:
 Tool        | Formula/URL | 
 :----------:|:-------------:
  Devtools Console Angular Command   |   angular.element('.unqorkio-form').scope().submission   
  Send Grid API Docs                 |   https://sendgrid.com/docs/api-reference/    
  Module Submission Path             |   =concatenate('/#/display/',moduleId,'/',submissionId,'/',moduleId    
- MomentJS Formula                   |   MomentJS Formula
+ MomentJS Formula                   |   =moment(moment(),'diff',moment(a),'years')
  HTML Anchor Tag                    |   \<a href="">\</a>
  SSN Formula                        |   ssn=CONCATENATE("***-**-",GET(ssn,5),GET(ssn,6),GET(ssn,7),GET(ssn,8))
  Delete/Get Workflow submission Endpoint |  /fbu/uapi/workflows/{workflowId}/submissions/{submissionId}
@@ -31,7 +35,10 @@ Tool        | Formula/URL |
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
-## Modules and Components
+
+
+
+## Overview of Modules and Components
 ---
 ### Vocabulary:
 * **Modules:** modules are 
@@ -39,15 +46,29 @@ Tool        | Formula/URL |
 
 <p>&nbsp;</p> 
 
-### Components Overview
-#### Primary Field
+
+### Components Overview:
+####  Intro to the Components Library:
+#### ***Primary Fields*** 
+``` 
     insert examples and screenshots here
-#### Secondary Fields
-    insert ex and ss here
+```
+#### ***Secondary Fields***
+``` 
+    insert examples and screenshots here
+```
+
+<p>&nbsp;</p> 
+
+### Modules Overview:
+Intro to the Module Editor ...
+``` 
+    insert examples and screenshots here
+```
 
 <p>&nbsp;</p> 
     
-### Basic Data Types and Structures
+### Basic Data Types and Structures:
 In Unqork data is categorized into 3 basic types ...
 
 * **Numbers**
@@ -61,9 +82,44 @@ Numbers can be further specified based on expected decimal value
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
+
+
+
+
+## Unqork 101: Basic Forms in Unqork
+---
+### Form Examples: 
+* [Unqork bootcamp 101 - quiz project](https://linkhere.com)
+
+<p>&nbsp;</p> 
+<p>&nbsp;</p>
+
+
+
+
+## Unqork 102 (pt 1): Adding decisions and Validation
+---
+### Form Examples: 
+* [Unqork bootcamp 101 - quiz project](https://linkhere.com)
+
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
+
+
+
+
+## Unqork 102 (pt 2): Intro to Workflows and Modules
+### Form Examples: 
+* [Unqork bootcamp 101 - quiz project](https://linkhere.com)
+
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
+
+
+
+## Unqork 102 (pt 3): APIs and Remote Executes
+### Form Examples: 
+* [Unqork bootcamp 101 - quiz project](https://linkhere.com)
+
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
