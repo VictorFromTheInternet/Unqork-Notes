@@ -102,29 +102,56 @@ Data Collections |  Data collections are static data referenced by your applicat
     * use cases of componenets:
         * A text input field
         * A radio input field (multiple choice)
+        
+<br>
+        
+### Modules Overview:
+#### Intro to the Module Editor:
+The module editor is what is used to change the display, function, and purpose of a module.
+The module editor contains the **Components library** (seen in components overview), which will contain 
+all of the smaller building blocks which will affect how the module functions.
+
+<"img src="screenshot goes here"  width="300" height="300"> <br>
+https://lc.sj-cdn.net/content/wp/sufucx3nslmm/djj8e35b1vr8/Content/Resources/Images/AppBuild_Primary_Fields_Intro.jpg
 
 <br>
 
 ### Components Overview:
 ####  Intro to the Components Library:
-#### ***Primary Fields*** 
+Components are the smallest building block when creating applications and they range in purpose. 
+They range from simple input fields to complex api plug in components. Each component has its own set of properties 
+that affect how the component functions.
+
+#### ***Primary Fields:*** 
+* Text Field
+* Text Area
+* Checkboxes
+* Multi-Select Dropdown
+* Radio Buttons
+* Dropdown
+* Number
+* Date Input
+* Single Checkbox
+
 ``` 
     insert examples and screenshots here
 ```
-#### ***Secondary Fields***
+#### ***Secondary Fields:***
+* Protected Field component
+* Button component
+* Email component
+* Phone Number component
+* Intl Phone Number component
+* Address component
+* Hidden component
+* Signature component
+
 ``` 
     insert examples and screenshots here
 ```
 
 <br> 
 
-### Modules Overview:
-#### Intro to the Module Editor:
-``` 
-    insert examples and screenshots here
-```
-
-<br>
 
 ### Resources Used:
 * [Associate Configuator](https://academy.unqork.com/path/associate-configurator)
