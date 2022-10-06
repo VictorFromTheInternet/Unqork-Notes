@@ -3,6 +3,13 @@
 
 # Unqork Basics
 ------------------------------------------------------------------------------------------------------------------
+## Table of Contents
+1. [Environment Basics](#unqork-environment-basics)
+2. [Overview of Modules and Components](#overview-of-modules-and-components)
+3. [Components: basic structuring and usage](#components-basic-structuring-and-usage)
+
+
+
 #### Official Resources:
 * [Training Environment](https://training.unqork.io)
 * [Unqork Academy](https://academy.unqork.com/)
@@ -198,7 +205,7 @@ that affect how the component functions.
 <br>
 
 
-## Components - Basic Structuring/Usage
+## Components: Basic Structuring and Usage
 -------------------------------------------------------------------------------------------------------------------
 ### Basic Data Types and Structures:
 In Unqork data is categorized into 3 basic types ...
@@ -210,6 +217,49 @@ In Unqork data is categorized into 3 basic types ...
 Numbers can be further specified based on expected decimal value 
 * **Integers**
 * **Decimals**
+
+The data type of input is specified in the **Component Configuration** ...
+
+<br>
+
+### The Component Configuration Window
+#### General
+Setting             |           Description
+:------------------:|:------------------------:
+Active              |   By default this toggle is set to 'ON', which means that the component is visible and accessible by other components
+Property Id         |   Id's must use camelCase, A Property ID is the unique field ID used by Unqork to track and link components in your module
+Field Tags          |   Field Tags are one-word labels used to identify a group of components. Field Tags let you target two or more components using a single Decision or Initializer. 
+Settings Tab        |   Selecting this tab shows the component's Display, Data, Actions, and Validation settings panels as applicable.
+Permissions Tab     |   Selecting this tab shows the component's role-based access control (RBAC) settings.
+Notes Tab           |   This tab is used for component documentation
+Cancel Button       |   
+Save Button         |
+
+
+<br>
+
+#### Display
+Setting             |           Description
+:------------------:|:------------------------:
+Label Text          |   Applies label text for the input component
+Tooltip             |   A short hint that appears when an end-user positions their cursor over the  (Tooltip) icon. Tooltips can display across more than one line.
+Placeholder Text    |   Provides text inside of the input area of the text input component
+Helper Text         |   Provides additional information for the input, unlike the tooltip helper text stays visible under the component
+Hide Label          |   This toggle hide the label
+Disable User Input  |   This toggle prevents user input
+Read Only View      |   This toggle makes the component into 'display only'
+Hide Field          |   This toggle hides the field
+
+
+<br>
+
+#### Validation
+Setting             |           Description
+:------------------:|:------------------------:
+Required            |   This toggle makes component input required for form submission
+Min/Max Length      |   These values define the min and max of characters for the input
+
+
 
 <br>
 
@@ -241,10 +291,13 @@ Numbers can be further specified based on expected decimal value
 
 ### Resources Used:
 * [Associate Configuator](https://academy.unqork.com/path/associate-configurator)
+    * [Intro to Primary Fields](https://academy.unqork.com/path/associate-configurator/introduction-to-primary-fields)
+    * [Intro to Secondary Fields](https://academy.unqork.com/path/associate-configurator/introduction-to-secondary-fields)
     * [Intro to data types](https://academy.unqork.com/path/associate-configurator/introduction-to-data-types)
     * [Layout and display](https://academy.unqork.com/path/associate-configurator/introduction-to-display-and-layout)
     * [Intro to data and event processing](https://academy.unqork.com/path/associate-configurator/introduction-to-data-and-events-processing)
     * [Triggering w/ buttons](https://academy.unqork.com/path/associate-configurator/triggering-with-buttons)
+
 * [Unqork Docs - Components Library](https://docs.unqork.io/Content/A02-ModEditor-Primary/A02000-Primary_Fields_Introduction.htm)
     * *Contains the same content* 
 
