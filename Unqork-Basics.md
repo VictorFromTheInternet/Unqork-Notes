@@ -1,8 +1,8 @@
 
 <br>
 
-# Unqork 101 & 102
----
+# Unqork Basics
+------------------------------------------------------------------------------------------------------------------
 #### Official Resources:
 * [Training Environment](https://training.unqork.io)
 * [Unqork Academy](https://academy.unqork.com/)
@@ -199,62 +199,4 @@ Numbers can be further specified based on expected decimal value
 
 
 
-## Unqork 101: Basic Forms in Unqork
---------------------------------------------------------------------------------------------------------------------
-### Form Examples: 
-* [Unqork bootcamp 101 - quiz project](https://linkhere.com)
-
-<br>
-
-### Resources Used:
-* [Unqork Bootcamp - 101-102](https://academy.unqork.com/path/bootcamp/unqork-101-and-102)
-    * [Intro to Platform](https://academy.unqork.com/path/bootcamp/unqork-101-and-102/653995)
-
-<br>
-<br>
-<br>
-<br>
-
-
-
-## Unqork 102 (pt 1): Adding decisions and Validation
----
-### Form Examples: 
-* [Unqork bootcamp 101 - quiz project](https://linkhere.com)
-
-
-
-<br>
-<br>
-<br>
-<br>
-
-
-
-
-## Unqork 102 (pt 2): Intro to Workflows and Modules
----
-### Form Examples: 
-* [Unqork bootcamp 101 - quiz project](https://linkhere.com)
-
-
-
-<br>
-<br>
-<br>
-<br>
-
-
-
-## Unqork 102 (pt 3): APIs and Remote Executes
----
-### Form Examples: 
-* [Unqork bootcamp 101 - quiz project](https://linkhere.com)
-
-
-
-<br>
-<br>
-<br>
-<br>
 
