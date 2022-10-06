@@ -14,10 +14,9 @@
 * [M.D.N.](https://developer.mozilla.org/en-US/)
 * [HTML5 cheat sheet](https://quickref.me/html)
 * [CSS3 cheat sheet](https://quickref.me/css)
+* [Unqork Academy - Developer Guide](https://academy.unqork.com/developer-guide)
 
-<p>&nbsp;</p> 
-
-
+<br>
 
 
 #### Useful stuff:
@@ -32,9 +31,29 @@ Tool        | Formula/URL |
  Delete/Get Workflow submission Endpoint |  /fbu/uapi/workflows/{workflowId}/submissions/{submissionId}
  App ID for Weather API             |   4e25461876c6722efa0f107814b65203
  
-<p>&nbsp;</p> 
-<p>&nbsp;</p> 
+ 
+<br>
+<br>
 
+
+
+## Unqork Envirnonment Basics
+---
+### File system navigation
+Unqork uses element configuration as apposed to code in order to develop applications. <br>
+Although Unqork functions on top of an abstraction of the low level code, it is structured in a familiar way . . .
+
+
+Common Term     |  Unqorks Term |
+:--------------:|:------------------:
+Repository      | Workspace
+Folders         | Application
+Files           | App elements: *Modules, Workflows, Data Collections*
+
+
+
+<br>
+<br>
 
 
 
@@ -44,7 +63,7 @@ Tool        | Formula/URL |
 * **Modules:** modules are 
 * **Components:** components are 
 
-<p>&nbsp;</p> 
+<br>
 
 
 ### Components Overview:
@@ -58,15 +77,16 @@ Tool        | Formula/URL |
     insert examples and screenshots here
 ```
 
-<p>&nbsp;</p> 
+<br> 
 
 ### Modules Overview:
-Intro to the Module Editor ...
+#### Intro to the Module Editor:
 ``` 
     insert examples and screenshots here
 ```
 
-<p>&nbsp;</p> 
+<br>
+
     
 ### Basic Data Types and Structures:
 In Unqork data is categorized into 3 basic types ...
@@ -80,8 +100,11 @@ Numbers can be further specified based on expected decimal value
 * **Decimals**
 
 
-<p>&nbsp;</p> 
-<p>&nbsp;</p> 
+### Building a basic application
+* [Unqork User Manual - 20 min App](https://docs.unqork.io/Content/A00-Unqork_Platform/A00003-Unqork_In_20_Minutes.htm)
+
+<br>
+<br> 
 
 
 
@@ -91,8 +114,8 @@ Numbers can be further specified based on expected decimal value
 ### Form Examples: 
 * [Unqork bootcamp 101 - quiz project](https://linkhere.com)
 
-<p>&nbsp;</p> 
-<p>&nbsp;</p>
+<br>
+<br>
 
 
 
@@ -102,24 +125,26 @@ Numbers can be further specified based on expected decimal value
 ### Form Examples: 
 * [Unqork bootcamp 101 - quiz project](https://linkhere.com)
 
-<p>&nbsp;</p> 
-<p>&nbsp;</p> 
+<br>
+<br> 
 
 
 
 
 ## Unqork 102 (pt 2): Intro to Workflows and Modules
+---
 ### Form Examples: 
 * [Unqork bootcamp 101 - quiz project](https://linkhere.com)
 
-<p>&nbsp;</p> 
-<p>&nbsp;</p> 
+<br>
+<br> 
 
 
 
 ## Unqork 102 (pt 3): APIs and Remote Executes
+---
 ### Form Examples: 
 * [Unqork bootcamp 101 - quiz project](https://linkhere.com)
 
-<p>&nbsp;</p> 
-<p>&nbsp;</p> 
+<br>
+<br>
