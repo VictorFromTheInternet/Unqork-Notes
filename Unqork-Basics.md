@@ -6,6 +6,8 @@
 #### Official Resources:
 * [Training Environment](https://training.unqork.io)
 * [Unqork Academy](https://academy.unqork.com/)
+    * [Associate Configurator](https://academy.unqork.com/path/associate-configurator)
+    * [Developer Guide](https://academy.unqork.com/developer-guide)
 * [Unqork Docs](https://developers.unqork.io/)
 * [Unqork User Manual](https://docs.unqork.io/Content/LandingPages/Landing_UserManual.htm)
 * [Unqork YouTube Channel](https://www.youtube.com/channel/UC4fU3i-_WG4yDn8e2LeYgPQ)
@@ -14,7 +16,7 @@
 * [M.D.N.](https://developer.mozilla.org/en-US/)
 * [HTML5 cheat sheet](https://quickref.me/html)
 * [CSS3 cheat sheet](https://quickref.me/css)
-* [Unqork Academy - Developer Guide](https://academy.unqork.com/developer-guide)
+
 
 <br>
 
@@ -38,8 +40,8 @@ Tool        | Formula/URL |
 <br>
 
 
-## Unqork Envirnonment Basics
----
+## Unqork Environment Basics
+-----------------------------------------------------------------------------------------------------------------------
 ### File system navigation
 Unqork uses element configuration as apposed to code in order to develop applications. <br>
 Although Unqork functions on top of an abstraction of the low level code, it is structured in a familiar way . . .
@@ -90,13 +92,18 @@ Data Collections |  Data collections are static data referenced by your applicat
 
 
 ## Overview of Modules and Components
----
+---------------------------------------------------------------------------------------------------------------------
 ### Vocabulary:
-* **Modules:** modules are 
-* **Components:** components are 
+* **Modules:** modules are building blocks of *Applications*, 
+    * use cases of modules:
+        * A Sign in page
+        * A Survey/Feedback page
+* **Components:** components are the building blocks of *Modules*,
+    * use cases of componenets:
+        * A text input field
+        * A radio input field (multiple choice)
 
 <br>
-
 
 ### Components Overview:
 ####  Intro to the Components Library:
@@ -119,7 +126,19 @@ Data Collections |  Data collections are static data referenced by your applicat
 
 <br>
 
-    
+### Resources Used:
+* [Associate Configuator](https://academy.unqork.com/path/associate-configurator)
+    * [Intro to Primary Fields](https://academy.unqork.com/path/associate-configurator/introduction-to-primary-fields)
+    * [Intro to Secondary Fields](https://academy.unqork.com/path/associate-configurator/introduction-to-secondary-fields)
+
+
+<br>
+<br>
+<br>
+
+
+## Basic Structuring
+-------------------------------------------------------------------------------------------------------------------
 ### Basic Data Types and Structures:
 In Unqork data is categorized into 3 basic types ...
 
@@ -131,12 +150,47 @@ Numbers can be further specified based on expected decimal value
 * **Integers**
 * **Decimals**
 
+<br>
+
+### Layout and Display
+
+<br>
+
+### Data and Events Processing
+
+<br>
+
+### Triggering with buttons
+
+<br>
 
 ### Building a basic application
 * [Hello World](https://academy.unqork.com/developer-guide/1149556/scorm/l45tk7tmcr6x)
 * [Unqork User Manual - 20 min App](https://docs.unqork.io/Content/A00-Unqork_Platform/A00003-Unqork_In_20_Minutes.htm)
 
+### Resources Used:
+* [Associate Configuator](https://academy.unqork.com/path/associate-configurator)
+    * [Intro to data types](https://academy.unqork.com/path/associate-configurator/introduction-to-data-types)
+    * [Layout and display](https://academy.unqork.com/path/associate-configurator/introduction-to-display-and-layout)
+    * [Intro to data and event processing](https://academy.unqork.com/path/associate-configurator/introduction-to-data-and-events-processing)
+    * [Triggering w/ buttons](https://academy.unqork.com/path/associate-configurator/triggering-with-buttons)
 
+
+<br>
+<br>
+<br>
+<br>
+
+
+## Intro to APIs
+-------------------------------------------------------------------------------------------------------------------
+
+
+<br>
+
+### Resources Used:
+* [Associate Configuator](https://academy.unqork.com/path/associate-configurator)
+    * [Intro to APIs](https://academy.unqork.com/path/associate-configurator/what-is-an-api)
 
 <br>
 <br>
@@ -146,11 +200,15 @@ Numbers can be further specified based on expected decimal value
 
 
 ## Unqork 101: Basic Forms in Unqork
----
+--------------------------------------------------------------------------------------------------------------------
 ### Form Examples: 
 * [Unqork bootcamp 101 - quiz project](https://linkhere.com)
 
+<br>
 
+### Resources Used:
+* [Unqork Bootcamp - 101-102](https://academy.unqork.com/path/bootcamp/unqork-101-and-102)
+    * [Intro to Platform](https://academy.unqork.com/path/bootcamp/unqork-101-and-102/653995)
 
 <br>
 <br>
