@@ -132,10 +132,8 @@ that affect how the component functions.
 * Number
 * Date Input
 * Single Checkbox
+* [Ex images](https://academy.unqork.com/path/associate-configurator/introduction-to-primary-fields/589015)
 
-``` 
-    insert examples and screenshots here
-```
 #### ***Secondary Fields:***
 * Protected Field component
 * Button component
@@ -145,10 +143,9 @@ that affect how the component functions.
 * Address component
 * Hidden component
 * Signature component
+* [Ex images](https://academy.unqork.com/path/associate-configurator/introduction-to-secondary-fields/590614)
 
-``` 
-    insert examples and screenshots here
-```
+
 
 <br> 
 
