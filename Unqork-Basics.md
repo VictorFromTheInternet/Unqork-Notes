@@ -46,10 +46,32 @@ Although Unqork functions on top of an abstraction of the low level code, it is 
 
 Common Term     |  Unqorks Term |
 :--------------:|:------------------:
+Environment/Organizations | Environment
 Repository      | Workspace
 Folders         | Application
 Files           | App elements: *Modules, Workflows, Data Collections*
 
+<br>
+
+
+### Workspaces:
+When you log in to the ***Unqork Designer platform***, Unqorks IDE, the default landing page is your companies environment in workspaces. Workspaces is the entry point into the Unqork Designer platform.
+
+Like a repository, **Workspaces** house single or multiple projects based on the needs and preferences of your organization. More about Workspaces: https://academy.unqork.com/introducing-the-unqork-platform?next=%2Fintroducing-the-unqork-platform%2F657299.
+
+<br>
+
+### Applications:
+Within workspaces you can create applications. **Applications** house and organize associated **elements** . . .
+
+
+#### Application Elements:
+
+Element Type    | Description
+:---------------:|:-----------------------:
+Modules         |   Modules are the equivilant of code files. Modules contain the **low level** rules of an application and can <br> configure client side display and server side execution.
+Workflows       |  Workflows are like the **higher level** pseudo-code of the application. They configure and link the logic between modules similar to Model–view–controller (MVC) is a software architecture.
+Data Collections |  Data collections are static data referenced by your applications.
 
 
 <br>
@@ -101,6 +123,7 @@ Numbers can be further specified based on expected decimal value
 
 
 ### Building a basic application
+* [Hello World](https://academy.unqork.com/developer-guide/1149556/scorm/l45tk7tmcr6x)
 * [Unqork User Manual - 20 min App](https://docs.unqork.io/Content/A00-Unqork_Platform/A00003-Unqork_In_20_Minutes.htm)
 
 <br>
