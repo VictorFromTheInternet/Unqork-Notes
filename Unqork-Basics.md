@@ -23,6 +23,10 @@
 * [M.D.N.](https://developer.mozilla.org/en-US/)
 * [HTML5 cheat sheet](https://quickref.me/html)
 * [CSS3 cheat sheet](https://quickref.me/css)
+* [JSON cheat sheet](https://quickref.me/json)
+* [Nunjucks cheat sheet](https://mozilla.github.io/nunjucks/templating.html)
+* [Regex - Input Pattern syntax](https://regex101.com/)
+* 
 
 
 <br>
@@ -35,13 +39,21 @@ Tool        | Formula/URL |
  Send Grid API Docs                 |   https://sendgrid.com/docs/api-reference/    
  Module Submission Path             |   =concatenate('/#/display/',moduleId,'/',submissionId,'/',moduleId    
  MomentJS Formula                   |   =moment(moment(),'diff',moment(a),'years')
- HTML Anchor Tag                    |   \<a href="">\</a>
- Regular Expression Pattern <br> (Client Side Form Valid) | ^[a-zA-Z]*$
  SSN Formula                        |   ssn=CONCATENATE("***-**-",GET(ssn,5),GET(ssn,6),GET(ssn,7),GET(ssn,8))
  Delete/Get Workflow submission Endpoint |  /fbu/uapi/workflows/{workflowId}/submissions/{submissionId}
  App ID for Weather API             |   4e25461876c6722efa0f107814b65203
 
- 
+ regex stuff (regular pattern expressions):
+ * **A-Z a-z**: ^[a-zA-Z]\*$
+ * **password & user name**: ^[a-zA-Z0-9~<>?{}\|:;"',.!@#$%^&*()_+=\`\/\-\[\]]\*$ 
+ * **phone number**: ^(\+\d{1,2}\s)?\(?\d{3}\)?[\s.-]\d{3}[\s.-]\d{4}$
+ * **email**: ^[a-z0-9]+@[a-z]+\.[a-z]{2,3}$
+
+supported html elements:
+* h1
+* p
+* img
+* a
 
 <br>
 <br>
@@ -275,6 +287,21 @@ Min/Max Length      |   These values define the min and max of characters for th
 
 ### Layout and Display
 #### Intro to the Grid System
+* Grid Systems 
+* HTML Element 
+   * https://docs.unqork.io/Content/A04-ModEditor-Display_Layout/A04001-HTML_Element_Component.htm?Highlight=html
+* Content 
+* Data Grid 
+* Matrix 
+* Columns 
+* Panel
+* Table
+* Advanced Data Grid
+* Navigation
+* View Grid
+* Field Group
+* Rich Text Editor
+* Repeater
 
 <br>
 
