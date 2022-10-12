@@ -1,4 +1,6 @@
 # Unqork Individual capstone project
+* [Individual Capstone from Bootcamp](https://academy.unqork.com/path/bootcamp/individual-capstone)
+
 ## Description
 Your client, No-Code Bank, is looking to revamp their New Account Opening flow, simplifying the forms that they
 currently use and cleaning/simplifying the flow to avoid duplication of work
@@ -14,7 +16,7 @@ Phase 1
 * Entity information page
 
 Phase 2
-* Product selectin page
+* Product selecting page
 * Relationship Manager Summary
 * Operations manager summary
 * finish the workflow
