@@ -54,6 +54,10 @@ supported html elements:
 * p
 * img
 * a
+Keyboard Shortcuts:
+* win key + click copy button (on component)
+   * copies the JSON data of the component
+
 
 <br>
 <br>
