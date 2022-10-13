@@ -38,25 +38,28 @@ Tool        | Formula/URL |
  Devtools Console Angular Command   |   angular.element('.unqorkio-form').scope().submission   
  Send Grid API Docs                 |   https://sendgrid.com/docs/api-reference/    
  Module Submission Path             |   =concatenate('/#/display/',moduleId,'/',submissionId,'/',moduleId    
- MomentJS Formula                   |   =moment(moment(),'diff',moment(a),'years')
- SSN Formula                        |   ssn=CONCATENATE("***-**-",GET(ssn,5),GET(ssn,6),GET(ssn,7),GET(ssn,8))
+ MomentJS Formula (Date parsing)                  |   =moment(moment(),'diff',moment(*var name*),'years')
+ SSN Formula (replaces str indices w/ '*')                       |   ssn=CONCATENATE("***-**-",GET(ssn,5),GET(ssn,6),GET(ssn,7),GET(ssn,8))
  Delete/Get Workflow submission Endpoint |  /fbu/uapi/workflows/{workflowId}/submissions/{submissionId}
  App ID for Weather API             |   4e25461876c6722efa0f107814b65203
 
- regex stuff (regular pattern expressions):
+ Regular pattern expressions (Text Field Regex):
  * **A-Z a-z**: ^[a-zA-Z]\*$
  * **password & user name**: ^[a-zA-Z0-9~<>?{}\|:;"',.!@#$%^&*()_+=\`\/\-\[\]]\*$ 
  * **phone number**: ^(\+\d{1,2}\s)?\(?\d{3}\)?[\s.-]\d{3}[\s.-]\d{4}$
  * **email**: ^[a-z0-9]+@[a-z]+\.[a-z]{2,3}$
 
-supported html elements:
+Supported html elements:
 * h1
 * p
 * img
 * a
+
+
 Keyboard Shortcuts:
-* win key + click copy button (on component)
-   * copies the JSON data of the component
+* Copy JSON data of component
+   *  win key + click copy button (on component)
+  
 
 
 <br>
@@ -136,7 +139,6 @@ The module editor is what is used to change the display, function, and purpose o
 The module editor contains the **Components library** (seen in components overview), which will contain 
 all of the smaller building blocks which will affect how the module functions.
 
-<"img src="https://docs.unqork.io/Content/Resources/Images/AppBuild_Primary_Fields_Intro.jpg"  width="300" height="300"> <br>
 ![](https://docs.unqork.io/Content/Resources/Images/AppBuild_Primary_Fields_Intro.jpg)
 
 <br>
@@ -147,6 +149,7 @@ Components are the smallest building block when creating applications and they r
 They range from simple input fields to complex api plug in components. Each component has its own set of properties 
 that affect how the component functions.
 
+* ***Note: bullets can be turned into links to documentation***
 #### ***Primary Fields:*** 
 * Text Field
 * Text Area
@@ -158,7 +161,6 @@ that affect how the component functions.
 * Date Input
 * Single Checkbox
 * [Ex images](https://academy.unqork.com/path/associate-configurator/introduction-to-primary-fields/589015)
-* ***Note turn these to links in the docs***
 
 #### ***Secondary Fields:***
 * Protected Field 
