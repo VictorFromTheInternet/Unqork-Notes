@@ -1,6 +1,20 @@
 # Unqork Individual capstone project
 * [Individual Capstone from Bootcamp](https://academy.unqork.com/path/bootcamp/individual-capstone)
 
+## TO DO:
+- Finish Dashboard
+  - Both
+    - Add KPI and graph
+    - Add View Details button (Modal) (done)
+    - add RBAC (done)
+  - RM
+    - Edit Submission Button
+  - OM
+    - Approve/Reject Button
+
+## Questions
+- Scope within panels?
+
 ## Description
 Your client, No-Code Bank, is looking to revamp their New Account Opening flow, simplifying the forms that they
 currently use and cleaning/simplifying the flow to avoid duplication of work
