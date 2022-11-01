@@ -16,9 +16,30 @@
 Steps in creating a remote execute ([link to ex](https://docs.unqork.io/Content/G-Common_Configs/G01-Dashboards/G01012-Dashboard_Remote_Delete.htm?Highlight=delete%20submission))
 - create the frontend module
 - create the RE to get submissions
+ - within this module, original data from the submission can be ommited (for security purposes) and then used for the api response
 - create the dashboard module
 - create the RE for deleting the submission/s
 
+
+for step one in creating a frontend module for submissions, all input fields should be toggled to 'store in database'. this includes all hidden fields that contain important information as well
+
+for step 2, creating a remote execute to get submissions, a plugin must first be created.
+plugin configuration
+- should be descriptively named (pluginGetSubmissions)
+- should be correct service type (Unqork > list submissions for dashboard)
+- should be correct request type (GET)
+- input parameters are
+ - Mapping
+  - workflowId ... or ... moduleId (PropertyId = 'hiddenField or copy paste')
+  - fields (PropertyId = 'input1,input2,input3') 
+
+Afterwards an initializer component can be created and set to 'new submission', it will triger the plugin
+
+From here the response from the plugin can be output to a hidden field directly or a data workflow can be used to filter the plugin's response
+
+if a dwf is used, the plugin is used as the input and the hidden field is used as the output. the dwf van be configured to filter data by using an 'omit keys' operator in between the input and output.
+
+<br>
 
 ## Dashboards
 
