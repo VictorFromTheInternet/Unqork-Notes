@@ -37,14 +37,18 @@ Common examples of APIs used are:
 * [Google's Font API](https://developers.google.com/fonts?csw=1)
   * Provides an easy way to import font styles into CSS files
 * [Google Maps](https://developers.google.com/maps)
-  * If youve ever seen an interactable location map on a companies website, chance are they used Google's maps api
-* Login using *XYZ*
-  * [Facebook Login](https://developers.facebook.com/docs/facebook-login/)   
-  * [Google Login](https://developers.google.com/identity/sign-in/web/sign-in)
-  * [Twitter Login](https://developer.twitter.com/en/docs/authentication/guides/log-in-with-twitter)
+  * If you've ever seen an interactable location map on a companies website, chances are they used Google's maps api
 * [Twitter Bot API](https://developer.twitter.com/en/docs/tutorials/how-to-create-a-twitter-bot-with-twitter-api-v2)
   * Allows for accounts like '@everyShrekMovieScene' or '@aceCourtBotRender'
+* [Facebook Login](https://developers.facebook.com/docs/facebook-login/)   
+* [Google Login](https://developers.google.com/identity/sign-in/web/sign-in)
+* [Twitter Login](https://developer.twitter.com/en/docs/authentication/guides/log-in-with-twitter)
+
+## Basic API Requests
 
 
+
+## Plugins in Unqork
+The Plugin componenet is what is used in unqork to interact with apis and to 'plugin' functionality from another application. 
 
 
