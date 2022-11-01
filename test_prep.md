@@ -44,11 +44,31 @@ Common examples of APIs used are:
 * [Google Login](https://developers.google.com/identity/sign-in/web/sign-in)
 * [Twitter Login](https://developer.twitter.com/en/docs/authentication/guides/log-in-with-twitter)
 
-## Basic API Requests
+### Common Unqork APIs
+#### Internal
 
+#### External
+* [DocuSign]()
+* [SendGrid]()
+
+## Basic API Requests
+GET ... : ... retrieves existing data/resource
+PATCH . : ... makes changes to parts of a resource
+POST .. : ... creates new resources
+PUT ... : ... update existing resources
+DELETE : ... deletes resources
 
 
 ## Plugins in Unqork
-The Plugin componenet is what is used in unqork to interact with apis and to 'plugin' functionality from another application. 
+The Plugin componenet is what is used in unqork to interact with apis and to 'plugin' functionality from another application/module. 
+
+Examples of plugin usage are: 
+- Frontend modules getting (parts of) submission data to display in a viewgrid component (ususally excluding sensitive info like password data)
+- Server side modules calling external apis in order to provide functionality like in ... [api examples](#api-examples) and [common unqork examples](#common-unqork-examples)
+
+Plugin components are often used to manipulate submission data from frontend modules. In this ex a plugin will be used to GET submission data from a login page and display it in a viewgrid component
+
+plugins have 5 basic request types
+
 
 
