@@ -66,10 +66,11 @@ deletes resources
 
 ### Common Unqork APIs
 #### Internal
+* [api doc](https://developers.unqork.io/#tag/Applications)
 
 #### External
-* [DocuSign]()
-* [SendGrid]()
+* [DocuSign](https://developers.docusign.com/)
+* [SendGrid](https://docs.sendgrid.com/for-developers/sending-email/api-getting-started)
 
 <br>
 
