@@ -12,6 +12,14 @@
 
 ## Remote Executes
 
+### EX : delete submissions from viewgrid/dashboard
+Steps in creating a remote execute ([link to ex](https://docs.unqork.io/Content/G-Common_Configs/G01-Dashboards/G01012-Dashboard_Remote_Delete.htm?Highlight=delete%20submission))
+- create the frontend module
+- create the RE to get submissions
+- create the dashboard module
+- create the RE for deleting the submission/s
+
+
 ## Dashboards
 
 
@@ -94,12 +102,6 @@ Examples of plugin usage are:
 In the following example a frontend module (login page) will provide submission data to be displayed in another module (dashboard), which will display parts of the submission data in a viewgrid. The dashboard module will call a server side module using a plugin w/ a GET request. 
 
 * [Training env: Dashboard Practice VA](https://training.unqork.io/workspaces/5ec846299cc11b020f495f2c/applications/635c216cb1634555964efe54/modules)
-
-
-I have like 15 minutes left before my lunch break, my main goals for today are to try and (my worst habit is that i try to understand everything at once and then i fail to understand the foundational things and struggle with configuration and the )
-- improve my understanding of remote executes
-- work on something with victoria 
-- try out some hamstring exercises and go for a 25 min run (recovery)
 
 
 
