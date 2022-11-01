@@ -79,11 +79,10 @@ The Plugin componenet is what is used in unqork to interact with apis and to 'pl
 
 Examples of plugin usage are: 
 - Frontend modules getting (parts of) submission data to display in a viewgrid component (ususally excluding sensitive info like password data)
-- Server side modules calling external apis in order to provide functionality like in ... [api examples](#api-examples) and [common unqork examples](#common-unqork-examples)
+- Server side modules calling external apis in order to provide functionality like in ... [api examples](#api-examples) and [common unqork apis](#common-unqork-apis)
 
-Plugin components are often used to manipulate submission data from frontend modules. In this ex a plugin will be used to GET submission data from a login page and display it in a viewgrid component
+In the following example a frontend module (login page) will provide submission data to be displayed in another module (dashboard), which will display parts of the submission data in a viewgrid. The dashboard module will call a server side module using a plugin w/ a GET request. 
 
-plugins have 5 basic request types
-
+* [Training env: Dashboard Practice VA](https://training.unqork.io/workspaces/5ec846299cc11b020f495f2c/applications/635c216cb1634555964efe54/modules)
 
 
