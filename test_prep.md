@@ -24,11 +24,11 @@ In the analogy, you, the ***Client***, ***request*** an item from the menu. The 
 * When done, the waiter will bring the kitchen's ***RESPONSE***
 
 In reference to Apis, this is known as the ***Request/Response Cycle***:
-![image](https://user-images.githubusercontent.com/99841849/199250759-1c246bc0-8b3c-439e-b829-ab31601b996f.png)
 
-APIs are what make the process easier for the 'client's' by abstracting (hiding) complex details; they provide an interface/simplified way to interact with databases and third-party applications. Programmers regularly leverage and include many different APIs to create their own applications and services.
-![image](https://user-images.githubusercontent.com/99841849/199252885-27cbd0ac-faec-437a-bf14-01dbf1d91c82.png)
+![image](https://user-images.githubusercontent.com/99841849/199265199-5ae84c17-af69-474f-81e6-13d3dfb07893.png)
+*APIs are what make the process easier for the 'client's' by abstracting (hiding) complex details; they provide an interface/simplified way to interact with databases and third-party applications. Programmers regularly leverage and include many different APIs to create their own applications and services.*
 
+<br>
 
 ### API Examples
 Common examples of APIs used are:
@@ -44,6 +44,26 @@ Common examples of APIs used are:
 * [Google Login](https://developers.google.com/identity/sign-in/web/sign-in)
 * [Twitter Login](https://developer.twitter.com/en/docs/authentication/guides/log-in-with-twitter)
 
+<br>
+
+## Basic API Requests
+#### GET
+retrieves existing data/resource
+
+#### PATCH
+makes changes to parts of a resource
+
+#### POST 
+creates new resources
+
+#### PUT
+update existing resources
+
+#### DELETE
+deletes resources
+
+<br>
+
 ### Common Unqork APIs
 #### Internal
 
@@ -51,13 +71,7 @@ Common examples of APIs used are:
 * [DocuSign]()
 * [SendGrid]()
 
-## Basic API Requests
-GET ... : ... retrieves existing data/resource
-PATCH . : ... makes changes to parts of a resource
-POST .. : ... creates new resources
-PUT ... : ... update existing resources
-DELETE : ... deletes resources
-
+<br>
 
 ## Plugins in Unqork
 The Plugin componenet is what is used in unqork to interact with apis and to 'plugin' functionality from another application/module. 
