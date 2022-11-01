@@ -38,7 +38,8 @@ Tool        | Formula/URL |
  Devtools Console Angular Command   |   angular.element('.unqorkio-form').scope().submission   
  Send Grid API Docs                 |   https://sendgrid.com/docs/api-reference/    
  Module Submission Path             |   =concatenate('/#/display/',moduleId,'/',submissionId,'/',moduleId    
- MomentJS Formula (Date parsing)                  |   =moment(moment(),'diff',moment(*var name*),'years')
+ MomentJS Formula (Date parsing for age)                  |   =moment(moment(),'diff',moment(*var name*),'years')
+ MomentJS Formula for timestamp     | =MOMENT(MOMENT(),'format','DD MM YYYY hh:mm:ss')
  SSN Formula (replaces str indices w/ '*')                       |   ssn=CONCATENATE("***-**-",GET(ssn,5),GET(ssn,6),GET(ssn,7),GET(ssn,8))
  Delete/Get Workflow submission Endpoint |  /fbu/uapi/workflows/{workflowId}/submissions/{submissionId}
  App ID for Weather API             |   4e25461876c6722efa0f107814b65203
