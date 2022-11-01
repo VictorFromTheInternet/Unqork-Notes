@@ -14,6 +14,7 @@
 
 ## Dashboards
 
+
 ## Transforms
 
 ## APIs 
@@ -81,8 +82,22 @@ Examples of plugin usage are:
 - Frontend modules getting (parts of) submission data to display in a viewgrid component (ususally excluding sensitive info like password data)
 - Server side modules calling external apis in order to provide functionality like in ... [api examples](#api-examples) and [common unqork apis](#common-unqork-apis)
 
+
+
+
+# App Example 
+### Concepts
+* APIs
+* Dashboards
+* REs
+* RBAC
 In the following example a frontend module (login page) will provide submission data to be displayed in another module (dashboard), which will display parts of the submission data in a viewgrid. The dashboard module will call a server side module using a plugin w/ a GET request. 
 
 * [Training env: Dashboard Practice VA](https://training.unqork.io/workspaces/5ec846299cc11b020f495f2c/applications/635c216cb1634555964efe54/modules)
+
+
+
+
+
 
 
