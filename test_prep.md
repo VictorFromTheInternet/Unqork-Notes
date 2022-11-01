@@ -35,7 +35,7 @@ plugin configuration
 
 Afterwards an initializer component can be created and set to 'new submission', it will triger the plugin
 
-From here the response from the plugin can be output to a hidden field directly or a data workflow can be used to filter the plugin's response
+A hidden field can be created (stored in db) to store the response. From here the response from the plugin can be output to the hidden field directly or a data workflow can be used to filter the plugin's response
 
 if a dwf is used, the plugin is used as the input and the hidden field is used as the output. the dwf van be configured to filter data by using an 'omit keys' operator in between the input and output.
 
