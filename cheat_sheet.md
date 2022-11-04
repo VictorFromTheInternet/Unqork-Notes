@@ -19,5 +19,10 @@ Use Case     | Formula/URL | Description
 Use Case     | Formula/URL | 
 :----------:|:-------------:
 
+* tolowercase() - converts char to lowercase
+* text() - input to text
+* char() - int input to char
+* value() - string to int/num
+* randbetween( , ) - generates a random number between a-b
 
 # Common Component Configurations
