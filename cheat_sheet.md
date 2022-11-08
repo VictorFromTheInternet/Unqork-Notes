@@ -5,8 +5,9 @@ Use Case     | Formula/URL | Description
 :----------:|:-------------:|:---------------:
  Diff, years (age)  |   =moment(moment(),'diff',moment(*varDateInput*),'years')        | calculates the diff from todays date to the input/var date
  Diff, days         | =moment(moment(*var1*),'diff',moment(*var2*),'days')             | formula is set to diff in 'days' (can also be 'years','months', 'seconds')
- Format, Timestamp            | =moment(moment(),'format','DD MM YYYY hh:mm:ss a')     | current date/time timestamp format ex: 04 11 2022 11:52:00 am
- Format, Calander day         | =moment(moment(A),'format','dddd')                     | returns the calender day, ex: Sunday, Monday, etc.
+ Format, timestamp            | =moment(moment(),'format','DD MM YYYY hh:mm:ss a')     | current date/time timestamp format ex: 04 11 2022 11:52:00 am
+ Format, calander day         | =moment(moment(A),'format','dddd')                     | returns the calender day, ex: Sunday, Monday, etc.
+ Today, timestamp             | =today()                                               | returns timestamp, ex: Thu Sep 23 2020 16:01:36 GMT-0400 (Eastern Daylight Time) 
  
  
  
