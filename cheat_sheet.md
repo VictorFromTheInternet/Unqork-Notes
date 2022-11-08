@@ -1,4 +1,16 @@
-# Formulas
+# Table of Contents
+* [Formulas: calc and init](#formulas-for-calc-and-init)
+ * [Moment JS](#moment-js)
+ * [Excel](#excel)
+* [Formulas: DWFs](#formulas-for-calc-and-init)
+
+
+
+<br>
+<br>
+<br>
+
+# Formulas: for Calc and Init
 
 ### Moment JS
 Use Case     | Formula/URL | Description
@@ -19,13 +31,14 @@ Use Case     | Formula/URL | Description
 <br>
 
 ### Excel 
-Use Case     | Formula/URL | 
-:----------:|:-------------:
-
-* tolowercase() - converts char to lowercase
-* text() - input to text
-* char() - int input to char
-* value() - string to int/num
-* randbetween( , ) - generates a random number between a-b
+#### String Formulas
+Use Case     | Formula/URL | Description
+:----------:|:-------------:|:---------------:
+Uppercase to lowercaser   |  =tolowercase(A)       | converts string to lowercase
+Lowercase to Uppercase    |  =toUppercase(A)       | converts string to uppercase
+Convert type to string    | =text(A) | input to text
+Convert to char | char(A) | int input to char
+Convert to int | value(A) | string to int/num
+Generate rand num |  randbetween(A , B) | generates a random number between a-b
 
 # Common Component Configurations
