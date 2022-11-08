@@ -36,9 +36,21 @@ Use Case     | Formula/URL | Description
 :----------:|:-------------:|:---------------:
 Uppercase to lowercaser   |  =tolowercase(A)       | converts string to lowercase
 Lowercase to Uppercase    |  =toUppercase(A)       | converts string to uppercase
-Convert type to string    | =text(A) | input to text
+Convert type to string    |  =text(A)              | input to text
+Concat                    |  =concatenate(A , B)   | adds/concats two strings
+Create/return a Substring          |  =mid(A,*start*,*size*)   |  A is the original string, start will be the first index of the substr, size will be the length of the substr ( ex: A='abcdefg' -> mid(A, 1, 4) -> 'bcde')
+
+
+
+#### int Formulas
+Use Case     | Formula/URL | Description
+:----------:|:-------------:|:---------------:
 Convert to char | char(A) | int input to char
 Convert to int | value(A) | string to int/num
 Generate rand num |  randbetween(A , B) | generates a random number between a-b
+
+<br>
+<br>
+<br>
 
 # Common Component Configurations
