@@ -58,7 +58,7 @@ Floor division    | =floor(*expression*)      | expression ex:
 <br>
 
 # Common Component Configurations
-
+* [Unqork Resource - Associate Practice](https://academy.unqork.com/associate-practices/1080384)
 
 
 
