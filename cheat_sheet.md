@@ -43,7 +43,7 @@ Create/return a Substring          |  =mid(A,*start*,*size*)   |  A is the origi
 
 
 
-#### Int and Math Formulas
+#### Integer and Math Formulas
 Use Case     | Formula/URL | Description
 :----------:|:-------------:|:---------------:
 Convert to char | =char(A) | int input to char
