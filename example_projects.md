@@ -9,7 +9,7 @@
 ## weather app (external api)
 
 
-## workflow app (w/ dashboard & auto emaila)
+## workflow app (w/ dashboard & auto emails)
 
 
 ## login app (w/ re for get & delete sub)
