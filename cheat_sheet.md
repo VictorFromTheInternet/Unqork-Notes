@@ -1,7 +1,7 @@
 # Table of Contents
 * [Formulas: calc and init](#formulas-for-calc-and-init)
- * [Moment JS](#moment-js)
- * [Excel](#excel)
+  * [Moment JS](#moment-js)
+  * [Excel](#excel)
 * [Formulas: DWFs](#formulas-for-calc-and-init)
 
 
