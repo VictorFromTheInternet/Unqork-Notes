@@ -2,7 +2,7 @@
 
 
 ## Count Business days & Weekend days
-* [VA Count Workdays - Training env link](https://training.unqork.io/#/form/6355d50ee0df8d21f333fd35/edit)
+* [VA Count Workdays - Training env link](https://training.unqork.io/workspaces/5ec846299cc11b020f495f2c/applications/6355d50ee0df8d21f333fd35/modules)
 
 <br>
 
