@@ -1,6 +1,7 @@
 # Table of contents:
 
 
+## Count Business days & Weekend days
 
 
 ## Generate random numbers (dwf & data tables)
