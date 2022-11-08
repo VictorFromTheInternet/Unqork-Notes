@@ -43,12 +43,15 @@ Create/return a Substring          |  =mid(A,*start*,*size*)   |  A is the origi
 
 
 
-#### int Formulas
+#### Int and Math Formulas
 Use Case     | Formula/URL | Description
 :----------:|:-------------:|:---------------:
-Convert to char | char(A) | int input to char
-Convert to int | value(A) | string to int/num
-Generate rand num |  randbetween(A , B) | generates a random number between a-b
+Convert to char | =char(A) | int input to char
+Convert to int | =value(A) | string to int/num
+Generate rand num |  =randbetween(A , B) | generates a random number between a-b
+Remainder of      | =mod(*expression*)   | expression ex: 
+Floor division    | =floor(*expression*)      | expression ex: 
+
 
 <br>
 <br>
