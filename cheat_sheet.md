@@ -58,3 +58,14 @@ Floor division    | =floor(*expression*)      | expression ex:
 <br>
 
 # Common Component Configurations
+
+
+
+
+<br>
+<br>
+<br>
+
+# Regular Expressions
+https://github.com/VictorFromTheInternet/regex_cheatsheet/blob/main/cheatsheet.md
+
